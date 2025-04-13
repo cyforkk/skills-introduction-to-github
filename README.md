@@ -67,10 +67,39 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 Hi, I'm Cyforkk. You might recognize me as GitHub's mascot.
 
+| Rank | Languages 
+|:-----|-----------:
+|     1| JavaScript
+|     2| Python    
+|     3| SQL       
+|     4| Java
+|     5| \|
+
+<details>
+<summary>My top languages haha</summary>
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| JavaScript|
 |     2| Python    |
 |     3| SQL       |
-|4      |Java      |
 
+</details>
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
+
+---
+> 好好学习，天天向上
+
+---
+
+
+fcf
+---
+
+## About me
+
+<!-- TO DO: add more details about me later -->
