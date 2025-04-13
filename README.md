@@ -63,4 +63,14 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cyforkk/skills-introduction-to-github/blob/main/sanye.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/cyforkk/skills-introduction-to-github/blob/main/sanye.png">
 </picture>
+## About me
+
+Hi, I'm Cyforkk. You might recognize me as GitHub's mascot.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+
+|     3| SQL       |
 
